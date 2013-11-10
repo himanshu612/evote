@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+request.requires_https()
 request.now = request.utcnow
 
 # require an HTTP session
